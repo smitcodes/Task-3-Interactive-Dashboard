@@ -1,118 +1,58 @@
-\# 📊 Task 3: Deep-Dive Analysis \& Interactive Dashboard
+# 📊 Task 3: Deep-Dive Analysis & Interactive Dashboard
 
-
-
-\## 🎯 Objective
-
+## 🎯 Objective
 To perform deep-dive analysis and build an interactive dashboard using Power BI.
 
+---
 
-
-\---
-
-
-
-\## 📁 Dataset
-
+## 📁 Dataset
 Superstore dataset (cleaned)
 
+---
 
+## 📊 KPIs Defined
+- Total Sales
+- Total Profit
+- Total Orders
+- Average Order Value (AOV)
+- Profit Margin
 
-\---
+---
 
+## 📈 Dashboard Features
+- Sales by Category
+- Profit by Category
+- Sales by Region
+- Sales by Segment
+- Top 5 Sub-Categories
 
+---
 
-\## 📊 KPIs Defined
+## 🎛️ Filters
+- Region
+- Category
+- Segment
 
-\- Total Sales
+---
 
-\- Total Profit
+## 🧠 Key Insights
+- Technology category generates highest revenue
+- Some categories have high sales but low profit
+- Certain regions dominate overall sales
+- Consumer segment contributes most revenue
 
-\- Total Orders
+---
 
-\- Average Order Value (AOV)
+## 🛠️ Tool Used
+- Power BI
 
-\- Profit Margin
+---
 
+## 📎 Files
+- Dashboard (.pbix)
+- Dataset (.csv)
 
+---
 
-\---
-
-
-
-\## 📈 Dashboard Features
-
-\- Sales by Category
-
-\- Profit by Category
-
-\- Sales by Region
-
-\- Sales by Segment
-
-\- Top 5 Sub-Categories
-
-
-
-\---
-
-
-
-\## 🎛️ Filters
-
-\- Region
-
-\- Category
-
-\- Segment
-
-
-
-\---
-
-
-
-\## 🧠 Key Insights
-
-\- Technology category generates highest revenue
-
-\- Some categories have high sales but low profit
-
-\- Certain regions dominate overall sales
-
-\- Consumer segment contributes most revenue
-
-
-
-\---
-
-
-
-\## 🛠️ Tool Used
-
-\- Power BI
-
-
-
-\---
-
-
-
-\## 📎 Files
-
-\- Dashboard (.pbix)
-
-\- Dataset (.csv)
-
-
-
-\---
-
-
-
-\## 🎥 Demo Video
-
+## 🎥 Demo Video
 (Add your LinkedIn video link here)
-
-
-
