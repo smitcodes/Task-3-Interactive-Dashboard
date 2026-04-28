@@ -52,7 +52,3 @@ Superstore dataset (cleaned)
 - Dashboard (.pbix)
 - Dataset (.csv)
 
----
-
-## 🎥 Demo Video
-(Add your LinkedIn video link here)
